@@ -1,0 +1,16 @@
+record(ai, "WS1:UPDATE")
+{
+  field(DESC, "Update interval, seconds")
+}
+record(ai, "WS1:TEMPERATURE")
+{
+  field(DESC, "Current temperature")
+}
+record(ai, "WS1:PRESSURE")
+{
+  field(DESC, "Current pressure")
+}
+record(ai, "WS1:HUMIDITY")
+{
+  field(DESC, "Current humidity")
+}
